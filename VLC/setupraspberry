@@ -1,0 +1,6 @@
+# install language package
+
+
+sudo apt-get install ibus ibus-hangul fonts-unfonts-core
+
+sudo apt-get install -y fbterm
