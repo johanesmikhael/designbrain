@@ -112,6 +112,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
+
 fbterm -s 64 -n "FreeMono"
 alias python='/usr/bin/python3'
 python /home/pi/VLC/script.py
